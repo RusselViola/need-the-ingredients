@@ -1,0 +1,7 @@
+curl --data "ingredient=3/4 teaspoon kosher salt" http://localhost:4567/ingredients
+
+curl --data is the command to add data to an area of the page
+
+"ingredient=3/4 teaspoon kosher salt" is a key value pair of the thing I want to add to params
+
+http://localhost:4567/ingredients is the path where I would like to put the key value pair
